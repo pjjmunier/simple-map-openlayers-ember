@@ -1,1 +1,0 @@
-/home/pmunier/Dev/git/simple-map-openlayers-ember/tmp/funnel-input_base_path-15YFa7W7.tmp/utils/module-registry.js

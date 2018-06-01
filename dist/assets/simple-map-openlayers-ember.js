@@ -355,7 +355,7 @@ catch(err) {
 /* jshint ignore:start */
 
 if (!runningTests) {
-  require("simple-map-openlayers-ember/app")["default"].create({"name":"simple-map-openlayers-ember","version":"0.0.0+"});
+  require("simple-map-openlayers-ember/app")["default"].create({"name":"simple-map-openlayers-ember","version":"0.0.0+3de6bd44"});
 }
 
 /* jshint ignore:end */

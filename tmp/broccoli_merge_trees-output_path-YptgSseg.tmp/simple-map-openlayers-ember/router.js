@@ -1,1 +1,0 @@
-/home/pmunier/Dev/git/simple-map-openlayers-ember/app/router.js
