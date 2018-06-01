@@ -1,0 +1,1 @@
+/home/pmunier/Dev/git/simple-map-openlayers-ember/tmp/funnel-input_base_path-wrP45x0B.tmp/tests-suffix.js

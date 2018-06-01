@@ -1,0 +1,1 @@
+/home/pmunier/Dev/git/simple-map-openlayers-ember/node_modules/ember-data/addon/initialize-store-service.js
